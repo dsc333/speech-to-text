@@ -1,6 +1,6 @@
 # Speech to text application
 
-### server.py
+### server.py (FastAPI application)
 GCP requirement:
 Before running, go to the Google Speech API menu in the GCP console
 and enable the API
