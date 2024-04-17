@@ -1,6 +1,7 @@
 # DSC 333: Streamlit client app that records speech and queries a FastAPI
 # server app that's driven by Google Speech to extract text content.
-
+# Install streamlit-audiorec first:
+#    pip3 install streamlit-audiorec
 # To run locally, replace VM_EXTERNAL_IP below with the external IP
 # address of your VM (where the FastAPI application is running)
 #   streamlit run audiorec-streamlit.py
