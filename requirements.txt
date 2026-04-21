@@ -1,0 +1,10 @@
+streamlit
+streamlit-audiorec
+urllib3
+uvicorn
+fastapi
+pydantic
+python-dotenv
+requests
+google-cloud-speech
+python-multipart
